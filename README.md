@@ -49,4 +49,4 @@ Este repositorio registra uma pratica inicial sobre regras logicas em Python e r
 
 ## Autoria
 
-Desenvolvido por Michele Santana - Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos - Kalion Tecnologia.
